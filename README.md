@@ -132,9 +132,10 @@
 - Демонстрация работы в [разборе на youtube](https://youtu.be/dQw4w9WgXcQ?t=90)
 
 ## Теоретические материалы
+ <summary><h2><b> Теоретические материалы </b></h2></summary>
 
 1. **URI** - **URL** - **URN** : https://wiki.merionet.ru/articles/url-i-uri-v-chem-razlichie/
-
+</details>
 
 -----------------
 # Simple website 
